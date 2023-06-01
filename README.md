@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bach.
-- 👀 I’m interested in all the fields of expertise. 
-- 🌱 I’m currently learning everything I can! (I'm a wannabe polymath)
+- 👀 I’m interested in all domains of knowledge. 
+- 🌱 I’m currently learning everything I can as a polymath! 
 - 💞️ I’m looking to collaborate on any fun and/or interesting projects.
 - 📫 How to reach me: https://www.linkedin.com/in/nbn01
 
