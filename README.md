@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything I can as a polymath! 
 - 💞️ I’m looking to collaborate on any fun and/or interesting projects.
 - 📫 How to reach me: https://www.linkedin.com/in/nbn01
-- :) If you want to take a look at my portfolio, then check out all my repos!
+- 🤩 If you want to take a look at my portfolio, then check out all my repos!
 
 <!---
 ngocbachnguyen9/ngocbachnguyen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
